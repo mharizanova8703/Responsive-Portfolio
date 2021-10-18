@@ -32,3 +32,12 @@
 .btn:hover {
   color: white;
 }
+#btnSend {
+  text-align: center;
+}
+@media (max-width: 800px) {
+  .row {
+    flex-direction:column;
+    text-align: center;
+  }
+}
