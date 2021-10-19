@@ -15,3 +15,6 @@ this Portfolio is build with the next technology :
 # Screenshot
 
 <img width="765" alt="Screen Shot 2021-10-18 at 10 53 30 PM" src="https://user-images.githubusercontent.com/85656320/137836059-f685f000-ade8-45cc-82e3-52a8f5d4aeab.png">
+
+# Credits
+ * Referenced for help with progress bar : https://www.youtube.com/watch?v=sFTuyrIQP7A
