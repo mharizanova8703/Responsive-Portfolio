@@ -36,3 +36,9 @@
 #btnSend {
   text-align: center;
 }
+@media (max-width: 800px) {
+  .row {
+    flex-direction: column;
+    align-items: center;
+  }
+}
