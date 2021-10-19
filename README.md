@@ -6,7 +6,13 @@ this Portfolio is build with the next technology :
 * JavaScript
 * Bootstrap
 * Font Poppins
-
+*  Media Query
+  
+  Creating the Portfolio Im using 80% Bootstrap.
+  Mastering Bootstrap in a future  I will be able to build quickly responsive web sites.
+  
+  
+  
 
 # Screenshot
 
@@ -18,3 +24,6 @@ this Portfolio is build with the next technology :
 
 # Credits
  * Referenced for help with progress bar : https://www.youtube.com/watch?v=sFTuyrIQP7A
+ * Referenced for help with the cards : https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+ * Referenced for help creating a effective bootstrap button : https://www.w3schools.com/bootstrap4/bootstrap_buttons.asp
+ *  Help from study group @media query:(David and Chris)
