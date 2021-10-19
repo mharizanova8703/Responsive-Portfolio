@@ -30,3 +30,6 @@ https://user-images.githubusercontent.com/85656320/137839226-38bb1ab5-26db-438d-
  * Referenced for help with the cards : https://www.w3schools.com/howto/howto_css_zoom_hover.asp
  * Referenced for help creating a effective bootstrap button : https://www.w3schools.com/bootstrap4/bootstrap_buttons.asp
  *  Help from study group @media query:(David and Chris)
+       
+       Happy coding!
+  ![image](https://user-images.githubusercontent.com/85656320/137840327-e89a3d2a-fbf7-45ca-b8c9-a7c6be876535.png)
