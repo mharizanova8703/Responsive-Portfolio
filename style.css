@@ -6,6 +6,26 @@
 .navbar-nav {
   font-size: 18px;
 }
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.contact-info {
+  text-align: center;
+  padding: 3px;
+}
+#img1 {
+  border-radius: 50%;
+  padding: 40px;
+  border: 3px solid grey;
+}
+
+#body1 {
+  background-image: url('imgbac.jpeg');
+}
+
 .navbar {
   text-align: center;
   position: stiky;
@@ -21,6 +41,7 @@
   transform: scale(1.1);
 }
 .card {
+  background-color: rgba(255, 196, 196, 0.534);
   transition: all 0.5s ease;
 }
 .card:hover {
@@ -40,5 +61,37 @@
   .row {
     flex-direction: column;
     align-items: center;
+  }
+  nav {
+    flex-direction: column;
+    justify-items: center;
+  }
+  .col-md-4 {
+    flex-direction: column;
+    padding: 40px;
+  }
+  .container my-5 {
+    flex-direction: column;
+  }
+  .col-md-6 {
+    flex-direction: center;
+    justify-items: center;
+  }
+  .ContactMe-Details {
+    flex-direction: column;
+    padding: 40px;
+  }
+  .contact-info {
+    padding: 5px;
+    margin: 30px;
+    flex-direction: column;
+  }
+  #skills {
+    flex-direction: column;
+    justify-items: center;
+  }
+  #home {
+    flex-direction: column;
+    justify-items: center;
   }
 }
