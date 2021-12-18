@@ -18,16 +18,15 @@ this Portfolio is build with the next technology :
   #Demo Video
   
   
-https://user-images.githubusercontent.com/85656320/137839226-38bb1ab5-26db-438d-a1b0-558dfb58b65a.mov
+
   
 
 # Screenshot
 
-<img width="552" alt="Screen Shot 2021-10-18 at 10 49 41 PM" src="https://user-images.githubusercontent.com/85656320/137835798-2cfdd503-a462-4965-9f78-8a2be5b0d2c4.png">
+
 
 # Screenshot
 
-<img width="765" alt="Screen Shot 2021-10-18 at 10 53 30 PM" src="https://user-images.githubusercontent.com/85656320/137836059-f685f000-ade8-45cc-82e3-52a8f5d4aeab.png">
 
 # Credits
  * Referenced for help with progress bar : https://www.youtube.com/watch?v=sFTuyrIQP7A
